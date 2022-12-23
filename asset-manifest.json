@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/npo/static/css/main.9a8989cc.css",
+    "main.js": "/npo/static/js/main.e4287b2c.js",
+    "index.html": "/npo/index.html",
+    "main.9a8989cc.css.map": "/npo/static/css/main.9a8989cc.css.map",
+    "main.e4287b2c.js.map": "/npo/static/js/main.e4287b2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a8989cc.css",
+    "static/js/main.e4287b2c.js"
+  ]
+}
